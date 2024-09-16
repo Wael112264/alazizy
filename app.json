@@ -13,49 +13,49 @@
     "success_url": "https://t.me/hama_refaat",
     "env": {
         "API_ID": {
-            "description": "قم بوضع الايبي ايدي هنا",
+            "description": "20437942",
             "required": true
         },
         "API_HASH": {
-            "description": "قم بوضع الايبي هاش",
+            "description": "abb0a6303ec6de4c5125b4fcdaf2b7b4",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "قم بوضع توكن البوت الخاص بك هنا",
+            "description": "7516175611:AAG_Ja2c7XATzCbRqgvCajIa8fBR4-4ao7c",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "FR3ON_bot_bot",
             "required": true
         },
         "BOT_NAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "FR3ON",
             "required": true
         },
         "ASSISTANT_NAME": {
-            "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
+            "description": "Uniquexa_7",
             "required": true
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "BAE327YAxTts9rUhj1docyIlaMN4LofdPOhjGz75M-VN1VMkgILm-3Pu9uKtaRD3K3Fzwx2GHL7tXH_mzTF-NDJne2DmrrS0OC5zWpXos9_R8rB6Lg7kA_IvsJGrQm9UIyHlO9ytVQdc6pRYYWQut7oJ3lR7iVqZwIgzGSdJwsnK_CwDOMjs1_tL-qJ5CenHuRPurqCqMFRyobWVu35N0GXN-rbvMJVziu4J6QbBDDkBESfqhnI8K0aNbaCl4xtethN6Xs0lEeMME4S04lM-VbGke0FVKujpO4E0sAy8-M0MRs4rJghYyIrnIoaZoBDVEArS3g7DjrLZR8f6d9LI0EISaLhGFQAAAAG3Kc83AA",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "قم بوضع ايدي المطور الاساسي",
+            "description": "6425347654",
             "required": true
         },
         "GROUP_SUPPORT": {
-            "description": "ضع هنا يوزر جروبك بدون علامة @",
+            "description": "Fr3on_S",
             "required": true,
             "value": "BANDA2M"
         },
         "UPDATES_CHANNEL": {
-            "description": "ضع هنا يوزر قناتك بدون علامة @",
+            "description": "G_aE5",
             "required": true,
             "value": "BANDA1M"
         },
         "OWNER_NAME": {
-            "description": "ضع هنا يوزر المطور بدون علامة @",
+            "description": "MG4_44",
             "required": true,
             "value": "php_7"
         },
